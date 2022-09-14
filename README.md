@@ -5,7 +5,7 @@
 -->
 
 👋 Hi, I’m Devin Long <br>
-👀 I’m interested in working with software development and potentially Data Science projects! <br>
+👀 I’m interested in working with Software & Development as well asData Science projects! <br>
 🌱 I’m currently learning Python, HTML, CSS, MySQL, C#, and PHP languages. <br>
 💞️ I’m looking to collaborate on any projects needing basic understanding of the languages above, particularly in the Sports industry. <br>
 📫 How to reach me: longdevin2@gmail.com <br>
